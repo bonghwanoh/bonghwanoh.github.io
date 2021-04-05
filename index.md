@@ -3,24 +3,45 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+Computer networking research scientist & engineer, network Architect, and academic lecturer. 
+My expertise is anchored in the design and implementation of internet protocols.
+
+__Office__: SC544B (Science Building)   
+__Email__: BongHwan (dot) Oh (at) xjtlu (dot) edu (dot) cn    
+__Links__: [XJTLU Homepage](https://www.xjtlu.edu.cn/en/departments/academic-departments/entrepreneur-college-taicang/staff/bonghwan-oh), 
+[Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=rMXzSyAAAAAJ), 
+[LinkedIn](https://www.linkedin.com/in/bong-hwan-oh-019300108/)
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+# Research Interests
+* Software-Defined Networking (SDN)
+* IoT 
+* Network softwarization
+* Transport layer protocols
+* Satellite communications
 
 <br/>
 
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+# Experience 
+* Lecturer (ASSISTANT PROFESSOR), Xi'an Jiaotong-Liverpool University, 2020 to Present
+
+* Senior Researcher, Agency for Defense Development (ADD), Daejeon, Korea, 2019 to 2020
+  * Development of an advanced satellite system for military communications.
+
+* Research Fellow, University of Surrey, Guildford, UK, 2016 to 2019
+  * Deployment of Software-Defined Networking (SDN) based transport network in the 5G testbed system constructed with various industry partners (Huawei, Vodafone, etc).
+  * SDN-based network slicing design.
+
+* Postdoc Researcher, Yonsei University, Seoul, Korea, Mar.2016 to Aug.2016
+  * Research on multipath transmission using MPTCP.
+  * Supervise Ph.D. and Master candidates as a second supervisor.
+
+<br/>
+
+# Qualifications
+* Ph.D., Electrical & Electronic Engineering, Yonsei University, Seoul, Korea, 2016
+* M.S.,  Electrical & Electronic Engineering, Yonsei University, Seoul, Korea, 2011
+* B.S.,  Electrical & Electronic Engineering, Yonsei University, Seoul, Korea, 2009
+
+
