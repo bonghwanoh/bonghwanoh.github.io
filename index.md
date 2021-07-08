@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-Computer networking research scientist & engineer, network Architect, and academic lecturer. 
+Computer networking research scientist & engineer, network Architect, and academic lecturer.     
 My expertise is anchored in the design and implementation of internet protocols.
 
 __Office__: SC544B (Science Building)   
@@ -23,7 +23,7 @@ __Links__: [XJTLU Homepage](https://www.xjtlu.edu.cn/en/departments/academic-dep
 
 <br/>
 
-# Experience 
+# Experience
 * Lecturer (ASSISTANT PROFESSOR), Xi'an Jiaotong-Liverpool University, 2020 to Present
 
 * Senior Researcher, Agency for Defense Development (ADD), Daejeon, Korea, 2019 to 2020
