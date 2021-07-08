@@ -8,7 +8,7 @@ My expertise is anchored in the design and implementation of internet protocols.
 
 __Office__: SC544B (Science Building)   
 __Email__: BongHwan (dot) Oh (at) xjtlu (dot) edu (dot) cn    
-__Links__: [XJTLU Homepage](https://www.xjtlu.edu.cn/en/departments/academic-departments/entrepreneur-college-taicang/staff/bonghwan-oh), 
+__Links__: [staff page in XJTLU](https://www.xjtlu.edu.cn/en/departments/academic-departments/entrepreneur-college-taicang/staff/bonghwan-oh), 
 [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=rMXzSyAAAAAJ), 
 [LinkedIn](https://www.linkedin.com/in/bong-hwan-oh-019300108/)
 
@@ -16,7 +16,8 @@ __Links__: [XJTLU Homepage](https://www.xjtlu.edu.cn/en/departments/academic-dep
 
 # Research Interests
 * Software-Defined Networking (SDN)
-* IoT 
+* IoT
+* TSN/DetNet 
 * Network softwarization
 * Transport layer protocols
 * Satellite communications
@@ -36,6 +37,12 @@ __Links__: [XJTLU Homepage](https://www.xjtlu.edu.cn/en/departments/academic-dep
 * Postdoc Researcher, Yonsei University, Seoul, Korea, Mar.2016 to Aug.2016
   * Research on multipath transmission using MPTCP.
   * Supervise Ph.D. and Master candidates as a second supervisor.
+
+<br/>
+
+# Courses taught
+* Introduction to Internet of Things (IOT104TC)
+* Computer Architecture and Operating Systems (IOT103TC)
 
 <br/>
 
