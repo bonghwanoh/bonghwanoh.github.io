@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-Computer networking research scientist & engineer, network Architect, and academic lecturer.     
+Research scientist & engineer in computer networking, network architect, and academic lecturer.     
 My expertise is anchored in the design and implementation of internet protocols.
 
 __Office__: SC544B (Science Building)   
