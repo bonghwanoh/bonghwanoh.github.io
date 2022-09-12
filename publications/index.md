@@ -3,6 +3,7 @@ layout: publications
 ---
 
 # Refereed Journal Publications
+* __Bong-Hwan Oh__, "P4-based Proactive Monitoring Scheme in Software-Defined Networks", IEEE Transactions on Network and Service Management, Under review
 * __Bong-Hwan Oh__, Serdar Vural, and Ning Wang, "A Lightweight Scheme of Active-port Aware Monitoring in Software-Defined Networks", IEEE Transactions on Network and Service Management, Volume 18, Issue 3, pp. 2888-2901, September 2021
 * __Bong-Hwan Oh__, Serdar Vural, Ning Wang and Rahim Tafazolli, "Priority-based Flow Control for Dynamic and Reliable Flow Management in SDN", IEEE Transactions on Network and Service Management, Volume 15, Issue 4, pp. 1- 13, December 2018
 * __Bong-Hwan Oh__ and Jaiyong Lee, "Feedback-based Path Failure Detection and Buffer Blocking Protection for MPTCP", IEEE/ACM Transactions on Networking, Volume 24, Issue 6, pp. 3450- 3461, December 2016

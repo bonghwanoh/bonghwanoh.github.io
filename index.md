@@ -15,7 +15,7 @@ __Links__: [staff page in XJTLU](https://www.xjtlu.edu.cn/en/departments/academi
 <br/>
 
 # Research Interests
-* Software-Defined Networking (SDN)
+* Software-Defined Networking (SDN)/P4
 * IoT
 * TSN/DetNet 
 * Network softwarization
@@ -43,12 +43,14 @@ __Links__: [staff page in XJTLU](https://www.xjtlu.edu.cn/en/departments/academi
 # Courses taught
 * Introduction to Internet of Things (IOT104TC)
 * Computer Architecture and Operating Systems (IOT103TC)
+* Introduction to Networking (IoT209TC)
 
 <br/>
 
 # Qualifications
-* Ph.D., Electrical & Electronic Engineering, Yonsei University, Seoul, Korea, 2016
-* M.S.,  Electrical & Electronic Engineering, Yonsei University, Seoul, Korea, 2011
-* B.S.,  Electrical & Electronic Engineering, Yonsei University, Seoul, Korea, 2009
+* PGcert, Learning & Teaching in Higher Education, University of Liverpool, 2022
+* Ph.D.,  Electrical & Electronic Engineering, Yonsei University, Seoul, Korea, 2016
+* M.S.,   Electrical & Electronic Engineering, Yonsei University, Seoul, Korea, 2011
+* B.S.,   Electrical & Electronic Engineering, Yonsei University, Seoul, Korea, 2009
 
 

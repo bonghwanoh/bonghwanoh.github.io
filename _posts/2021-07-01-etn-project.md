@@ -3,7 +3,7 @@ layout: post
 title:  "A New Evolved Transport Network based on TSN/DetNet for Ultra-Low Latency"
 type: keywords 
 info: "TSN, DetNet, Ultra-Low Latency (ULL)"
-period: "TBD"
+period: "2021-09-01 ~ 2024-08-31"
 tech: "TBD"
 ---
 
@@ -13,9 +13,5 @@ The final objective of this project is to propose a networking system which can 
 &emsp;- To develop traffic management to guarantee bounded network latency<br/>
 
 
-## Research Methodology 
-TBD
-
-
 ## Period
-TBD
+2021-09-01 ~ 2024-08-31
