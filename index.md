@@ -6,9 +6,9 @@ layout: about
 Research scientist & engineer in computer networking, network architect, and academic lecturer.     
 My expertise is anchored in the design and implementation of internet protocols.
 
-__Office__: SC544B (Science Building)   
+__Office__: D-4020 (Taicang campus)   
 __Email__: BongHwan (dot) Oh (at) xjtlu (dot) edu (dot) cn    
-__Links__: [staff page in XJTLU](https://www.xjtlu.edu.cn/en/departments/academic-departments/entrepreneur-college-taicang/staff/bonghwan-oh), 
+__Links__: [staff page in XJTLU](https://scholar.xjtlu.edu.cn/en/persons/BongHwanOh), 
 [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=rMXzSyAAAAAJ), 
 [LinkedIn](https://www.linkedin.com/in/bong-hwan-oh-019300108/)
 
@@ -16,8 +16,9 @@ __Links__: [staff page in XJTLU](https://www.xjtlu.edu.cn/en/departments/academi
 
 # Research Interests
 * Software-Defined Networking (SDN)/P4
-* IoT
-* TSN/DetNet 
+* Multipath-TCP (MPTCP)
+* IoT networks
+* TSN/DetNet
 * Network softwarization
 * Transport layer protocols
 * Satellite communications
@@ -25,8 +26,9 @@ __Links__: [staff page in XJTLU](https://www.xjtlu.edu.cn/en/departments/academi
 <br/>
 
 # Experience
-* Lecturer (ASSISTANT PROFESSOR), Xi'an Jiaotong-Liverpool University, 2020 to Present
-
+* Assistant Professor, Xi'an Jiaotong-Liverpool University, 2020 to Present
+  * Director of ERDI (Education, Research and Development Institute), 2024 ~ Current
+  * Program Director, 2021 ~ 2024
 * Senior Researcher, Agency for Defense Development (ADD), Daejeon, Korea, 2019 to 2020
   * Development of an advanced satellite system for military communications.
 
@@ -44,6 +46,7 @@ __Links__: [staff page in XJTLU](https://www.xjtlu.edu.cn/en/departments/academi
 * Introduction to Internet of Things (IOT104TC)
 * Computer Architecture and Operating Systems (IOT103TC)
 * Introduction to Networking (IoT209TC)
+* Fundamentals of Internet of Things (IOT001)
 
 <br/>
 
@@ -53,4 +56,9 @@ __Links__: [staff page in XJTLU](https://www.xjtlu.edu.cn/en/departments/academi
 * M.S.,   Electrical & Electronic Engineering, Yonsei University, Seoul, Korea, 2011
 * B.S.,   Electrical & Electronic Engineering, Yonsei University, Seoul, Korea, 2009
 
+<br/>
 
+# Awards and honors
+* __Academic Excellence Award__ for Teaching Innovation Award, XJTLU Entrepreneur College, 2022-2023,
+* Committee __Outstanding Member Award__, XJTLU Library Affairs Committee, in 2020-2021, 2021-2022, and 2022-2023.
+* __Best presenter__ (excellent oral presentation), at the 4th International Conference on Communications, Networking, and Machine Learning (CCNML 2024), September 27–29, 2024, Shanghai, China.

@@ -4,7 +4,7 @@ title:  "A New Evolved Transport Network based on TSN/DetNet for Ultra-Low Laten
 type: keywords 
 info: "TSN, DetNet, Ultra-Low Latency (ULL)"
 period: "2021-09-01 ~ 2024-08-31"
-tech: "TBD"
+tech: "XJTLU - RDF-20-02-03"
 ---
 
 ## Project Goal
