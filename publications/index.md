@@ -19,6 +19,8 @@ __* indicates the Corresponding author__
 <br/>
 
 # Refereed Conference Publications
+* __Bong-Hwan Oh__, "One-way Link Delay Monitoring using P4 based on Existing Traffic Flows", Proceedings of the 10th International Conference on Communication and Information Processing (ICCIP 2024), Nov 2024.
+* __Bong-Hwan Oh__ and Yikun Li, "Improving MPTCP Performance by Detouring Network Congestion using Software-Defined Networks", 2024 4th International Conference on Artificial Intelligence, Automation and Algorithms (AI2A 2024), Sep 2024.
 * __Bong-Hwan Oh__, Serdar Vural, Rahulan Yogaratnam, Ning Wang, and Rahim Tafazolli, " Performance Evaluation of a Virtualized Mobile Core Network in Indoor Environments", Proceedings of The International Symposium on Networks, Computers and Communications (ISNCC), Jun 2018.
 * Peng Qian, Ning Wang, __Bong-Hwan Oh__, and Rahim Tafazolli, "Optimization of Webpage Downloading Performance with Content-aware Mobile Edge Computing", Proceedings of the Workshop on Mobile Edge Communications (MECOMM), Aug 2017.
 * Jinhwan Kim, __Bong-Hwan Oh__ and Jaiyong Lee, "' Receive Buffer based Path Management for MPTCP in heterogeneous networks", IFIP/IEEE Symposium on Integrated Network and Service Management (IM), May 2017.

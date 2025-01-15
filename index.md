@@ -62,3 +62,4 @@ __Links__: [staff page in XJTLU](https://scholar.xjtlu.edu.cn/en/persons/BongHwa
 * __Academic Excellence Award__ for Teaching Innovation Award, XJTLU Entrepreneur College, 2022-2023,
 * Committee __Outstanding Member Award__, XJTLU Library Affairs Committee, in 2020-2021, 2021-2022, and 2022-2023.
 * __Best presenter__ (excellent oral presentation), at the 4th International Conference on Communications, Networking, and Machine Learning (CCNML 2024), September 27–29, 2024, Shanghai, China.
+* __Excellent presentation__, at the 10th International Conference on Communication and Information Processing (ICCIP 2024), November 14–17 2024, Lingshui, Hainan, China.
